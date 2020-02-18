@@ -1,1 +1,2 @@
-Tester text doc
+Tester text doc.
+Added a new line.
